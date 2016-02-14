@@ -403,3 +403,7 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.single .related_posts {
+display: none;
+}

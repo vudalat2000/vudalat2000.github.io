@@ -331,7 +331,7 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
 }
 
-/* Related posts 
+/* Related posts */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -355,7 +355,7 @@ a.sidebar-nav-item:focus {
 .related-posts li a:hover small {
   color: inherit;
 }
-*/
+
 
 /*
  * Pagination

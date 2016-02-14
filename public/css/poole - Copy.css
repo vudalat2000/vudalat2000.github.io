@@ -352,7 +352,7 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
-/* Related posts 
+/* Related posts */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -376,7 +376,7 @@ tbody tr:nth-child(odd) th {
 .related-posts li a:hover small {
   color: inherit;
 }
-*/
+
 
 /*
  * Pagination

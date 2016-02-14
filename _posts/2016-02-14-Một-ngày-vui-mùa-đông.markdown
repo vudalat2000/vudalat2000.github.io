@@ -1,16 +1,9 @@
 ---
 layout: post
 published: true
+title: Một ngày vui mùa đông
 ---
 
-\---
-
-layout: post
-
-title: Blogging Like a Hacker
-
-tags: misc
-
-\---
+ 
 
 Thử post xem có đúng format hay không. Ghê thật.

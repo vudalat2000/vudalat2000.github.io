@@ -13,4 +13,4 @@ tags: misc
 
 \---
 
-Thử post xem có đúng format hay không.
+Thử post xem có đúng format hay không. Ghê thật.

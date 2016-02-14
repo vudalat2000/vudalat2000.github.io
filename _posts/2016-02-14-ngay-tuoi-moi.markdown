@@ -4,19 +4,19 @@ published: true
 title: Đoàn người lữ thứ từ Texts.io
 ---
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Đây là post gõ từ Texts.io, và đang muốn up lên Github.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Kìa là rừng sâu âm u dưới sương trời khuya  
 Một đoàn tàu đi quanh co giữa đêm trăng đầy  
 Lòng tràn niềm vui đêm nay chúng ta cùng sum vầy  
 Bên nhau ta hát hát mãi hát quên đường xa
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Rừng già về khuya im nghe tiếng ca đoàn ta 
-Hòa cùng trời mây bao la sáng tươi mơ màng 
-Vượt ngàn xa gian nguy chí trai thề tung hoành 
-Ra đi ta chỉ ước một ngày mai huy hoàng 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>   Rừng già về khuya im nghe tiếng ca đoàn ta  
+>   Hòa cùng trời mây bao la sáng tươi mơ màng  
+>   Vượt ngàn xa gian nguy chí trai thề tung hoành  
+>   Ra đi ta chỉ ước một ngày mai huy hoàng
 
 **Ôi dừng chân đây hỡi làn mây đêm thâu lơ lững về đâu**  
 **Ôi mây thấu chăng miền Bắc giờ đau thương tràn khắp đồng sâu**
@@ -52,4 +52,4 @@ Kết luận: editor hơi cùi bắp, nhưng chỉnh font lại thì tạm xài 
 
 Chêm thêm cái hình:
 
-![](<C:\Users\Vu\Documents\GitHub\vudalat2000.github.io\images\a.jpg>)
+![](<../images/radcliffe-camera.jpg>)

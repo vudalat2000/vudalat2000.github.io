@@ -1,17 +1,17 @@
-title:              Blog
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+title:              vudalat2000's blog
+tagline:            a log of daily life
+description:        blog ti?ng Vi?t, vi?t b?ng Markdown. kinh nh??
+url:                http://vudalat2000.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             Vu
+  url:              https://twitter.com/na
+  email:            na@gmail.com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
 permalink:          /:title/
-paginate:           5
+paginate:           7
 defaults:
   -
     scope:

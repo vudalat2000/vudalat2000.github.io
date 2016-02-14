@@ -1,17 +1,17 @@
 title:              vudalat2000's blog
 tagline:            a log of everyday life
-description:        blog ti?ng Vi?t
+description:        
 url:                http://vudalat2000.github.io
 
 author:
-  name:             V?
+  name:             vudalat2000
   url:              https://twitter.com/na
   email:            na@gmail.com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
 permalink:          /:title/
-paginate:           7
+paginate:           5
 defaults:
   -
     scope:

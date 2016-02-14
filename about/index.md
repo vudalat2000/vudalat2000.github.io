@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Blog tiếng Việt, dùng Markdown. Kinh nhờ?
+blog của vudalat2000, dùng markdown viết bằng texts.io và post ở github.io.

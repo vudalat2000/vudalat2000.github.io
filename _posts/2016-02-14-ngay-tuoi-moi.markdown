@@ -4,9 +4,13 @@ published: true
 title: Đoàn người lữ thứ từ Texts.io
 ---
 
+ 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Đây là post gõ từ Texts.io, và đang muốn up lên Github.
+Đây là Texts.io đang úp lên Github đây.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
 
 Kìa là rừng sâu âm u dưới sương trời khuya  
 Một đoàn tàu đi quanh co giữa đêm trăng đầy  

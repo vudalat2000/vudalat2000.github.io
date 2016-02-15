@@ -36,7 +36,7 @@ hợp tài liệu chính cấp giúp làm sáng tỏ lịch sử và thần họ
 Lành Việt Nam. Tài liệu này cũng coi như là các dữ liệu lịch sử giúp làm sáng tỏ
 một quan điểm đánh giá Tin Lành Việt Nam trong dự án hiện tại. Dự án phụ này có
 thể phát triển bằng cách thêm vào hai dự án mới: một dự án trình bày thông tin
-bối cảnh cần thiết cho người việt để dễ đọc, dễ cảm thụ Kinh Thánh hơn; một dự
+bối cảnh cần thiết cho người Việt để dễ đọc, dễ cảm thụ Kinh Thánh hơn; một dự
 án khác diễn giải các chủ đề của systematic/constructive theology theo góc nhìn
 của tôi và góc nhìn grassroots. Đây coi như là một tam bộ khúc tiếng Việt, liên
 can đến kinh thánh, lịch sử, và thần học Tin Lành Việt Nam.

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Đoàn người lữ thứ từ Texts.io
+title: Đoàn người lữ thứ (từ texts.io)
 ---
 
  
@@ -19,12 +19,10 @@ Bên nhau ta hát hát mãi hát quên đường xa
 **Ôi dừng chân đây hỡi làn mây đêm thâu lơ lững về đâu**  
 **Ôi mây thấu chăng miền Bắc giờ đau thương tràn khắp đồng sâu**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Rừng ơi trăng sáng, lả lướt muôn nơi
-Trăng thắm tô thêm nhạc thêm vui
-Tình xuân chan chứa, mơ ước xa xôi
-Nhưng biết đâu đời là mộng thôi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>   Rừng ơi trăng sáng, lả lướt muôn nơi  
+>   Trăng thắm tô thêm nhạc thêm vui  
+>   Tình xuân chan chứa, mơ ước xa xôi  
+>   Nhưng biết đâu đời là mộng thôi
 
 *Một hồi còi vang ngân lên xé tan màn sương*  
 *Lòng người rừng sâu nôn nao thức giữa đêm trường*  

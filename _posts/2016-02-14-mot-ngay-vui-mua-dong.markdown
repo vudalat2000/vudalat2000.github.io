@@ -1,9 +1,8 @@
 ---
 layout: post
 published: true
-title: Một Ngày Vui Mùa Đông
+title: Một ngày vui mùa đông
 ---
-
 
  
 

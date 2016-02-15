@@ -29,16 +29,7 @@ Bên nhau ta hát hát mãi hát quên đường xa
 *Nhìn đoàn người đi miên mang biết đâu là bến bờ*  
 *Đi gieo no ấm bác ái đi xây tự do*
 
-Dù đường còn xa bao la hay qua `đồi cao`  
-Biển rộng `rừng sâu` khi đi thân trai ngại gì
-
+Dù đường còn xa bao la hay qua đồi cao  
+Biển rộng rừng sâu khi đi thân trai ngại gì  
 Rồi một ngày mai khi non sông say nhạc thanh bình  
 Chim xanh đua hót đón mừng đoàn ta trở về.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Kết luận: editor hơi cùi bắp, nhưng chỉnh font lại thì tạm xài được.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Chêm thêm cái hình thử nghiệm:
-
-![](<../images/radcliffe-camera.jpg>)

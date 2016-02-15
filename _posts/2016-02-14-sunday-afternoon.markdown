@@ -9,4 +9,4 @@ của tôi không buồn. Tôi đang có một ngày nghỉ ngơi, và tôi th�
 mình đang sống: yên lành, thanh bình, khí trời mát mẻ, không gian rộng lớn, yên
 tĩnh, đường xá nhỏ, vắng, không một bóng người.
 
-![](\<../images/ab.jpg\>)
+![](<../images/ab.jpg>)

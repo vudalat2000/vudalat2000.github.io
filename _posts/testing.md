@@ -5,4 +5,4 @@ Ghê quá, chữ vẫn chưa nhảy to nhảy nhỏ.</p>
 <p><strong>Note:</strong> You can use <em>Markdown</em> to format your text.</p>
 </blockquote>
 <p><code>Ok, đây là code</code></p>
-<p>Post đầu tiên từ classeur.</p>
+<p>Post đầu tiên từ classeur. Thử lại phát nữa.</p>

@@ -13,7 +13,7 @@ Bên nhau ta hát hát mãi hát quên đường xa
 
 >   Rừng già về khuya im nghe tiếng ca đoàn ta  
 >   Hòa cùng trời mây bao la sáng tươi mơ màng  
->   Vượt ngàn xa gian nguy chí trai thề tung hoành  
+>   Vượt ngàn dặm xa gian nguy chí trai thề tung hoành  
 >   Ra đi ta chỉ ước một ngày mai huy hoàng
 
 **Ôi dừng chân đây hỡi làn mây đêm thâu lơ lững về đâu**  
@@ -26,7 +26,7 @@ Bên nhau ta hát hát mãi hát quên đường xa
 
 *Một hồi còi vang ngân lên xé tan màn sương*  
 *Lòng người rừng sâu nôn nao thức giữa đêm trường*  
-*Nhìn đoàn người đi miên mang biết đâu là bến bờ*  
+*Nhìn đoàn người đi miên man biết đâu là bến bờ*  
 *Đi gieo no ấm bác ái đi xây tự do*
 
 Dù đường còn xa bao la hay qua đồi cao  

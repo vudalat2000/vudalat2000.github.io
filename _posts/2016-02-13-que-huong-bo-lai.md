@@ -1,5 +1,5 @@
 ---
-title: Quê hương bỏ lại
+title: Quê hương bỏ lại (thật ra là sắp về)
 ---
 
 Gió chiều mang hương quê   
@@ -8,7 +8,7 @@ Ngày dài ôi lê thê 
 Mà hồn mình như ê chề 
 
 **Sài Gòn trong nắng cháy**   
-**Đà Lạt dấu trong sương mờ**   
+**Đà Lạt chìm trong sương mờ**   
 **Chiều nào biển Vũng Tàu**   
 **Sóng tận cùng đến Cà Mau** 
 

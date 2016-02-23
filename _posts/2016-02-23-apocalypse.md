@@ -43,6 +43,6 @@ Người Ngũ tuần có xu hướng suy nghĩ theo hướng apocalypse. Thứ n
 
 Trong cái settlement của người Ngũ tuần, cũng có nhiều vấn đề xảy ra, ví dụ như prosperity teaching trở thành trình diễn phô trương và kinh nghiệm thuộc linh trở thành một cái thang để phân chia cấp bậc trong ở các hội Ngũ tuần lớn. Đó là lúc chu kỳ apocalypse lại khởi động: rao báo sự kết thúc một thực tế đang bị tha hóa, và mời gọi viễn tượng cuộc sống mới.
 
-$$
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Note: Viết đến lần thứ 3 mới thấy ra hình dáng chút đỉnh. Thấy vui.
-$$
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

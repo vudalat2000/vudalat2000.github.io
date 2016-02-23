@@ -1,5 +1,5 @@
 ---
-title: Apocalypse
+title: Apocalypse (viết lần 3)
 ---
 
 Apocalypse
@@ -11,11 +11,11 @@ Khi người ta bảo, thế gian vẫn vậy/cuộc sống vẫn tiếp diễn,
 
 Apocalypse chịu ảnh hưởng của Khải huyền, vì vậy sự kết thúc của thế gian đi kèm với sự ra đời của trời mới đất mới thành mới, nghĩa là đi kèm với sự tưởng tượng về một cái mới sẽ đến.
 
-Apocalypse vì vậy như một đồng xu hai mặt: một mặt rao báo sự kết thúc của thế gian đang gian như thế, một mặt mời gọi tưởng tượng và hiện thực hóa một khởi đầu mới. 
+Apocalypse vì vậy như một đồng xu hai mặt: một mặt rao báo sự kết thúc của thế gian đang gian như thế, một mặt mời gọi tưởng tượng và hiện thực hóa một khởi đầu mới.
 
 Apocalypse có tính chu kỳ: tĩnh trú trong hiện tại khi hiện thực hóa thế gian mới, nhưng thúc đẩy rao báo sự kết thúc của thế gian và mời gọi viễn tượng mới khi có vấn đề gian hóa.
 
-Apocalypse có lý khi nhìn từ góc độ của người nghèo khó, người bị tước đoạt tài sản đất đai, người bị chèn ép... 
+Apocalypse có lý khi nhìn từ góc độ của người nghèo khó, người bị tước đoạt tài sản đất đai, người bị chèn ép...
 
 Imagination
 -----------
@@ -30,7 +30,7 @@ Chữ pilgrimage (Augustine), hay exile/pilgrimage (Yoder), mô tả đời số
 
 Chữ exile/diaspora (Said), hay hybridity/in-betweenness (Bhabha) mô tả người có kinh nghiệm giữa hai thế giới, tự tạo ra một không gian mới cho mình, cũng không phù hợp, do các người cùng khổ cũng không có kinh nghiệm re-settlement ở một thế giới khác để có suy nghĩ này.
 
-Chữ return (như Weaver) hữu dụng trong trường hợp vấn đề giữa người Do Thái và người Palestine, nhưng những người cùng khổ ở Việt Nam đang sống gần nơi họ sinh ra, chứ không có từ đâu trở về. Hơn nữa, chữ return có ý nói nhóm người có quyền lợi nguyên thủy đối với một không gian địa lý, là một ý dễ gây tranh cãi. 
+Chữ return (như Weaver) hữu dụng trong trường hợp vấn đề giữa người Do Thái và người Palestine, nhưng những người cùng khổ ở Việt Nam đang sống gần nơi họ sinh ra, chứ không có từ đâu trở về. Hơn nữa, chữ return có ý nói nhóm người có quyền lợi nguyên thủy đối với một không gian địa lý, là một ý dễ gây tranh cãi.
 
 Chữ settlement tốt hơn chữ return, do không có ý nói rằng họ có quyền lợi từ nguyên thủy đối với mảnh đất. Tuy nhiên, chữ settlement, như trong trường hợp người da trắng settled và chiếm đất của người bộ lạc, cũng không phải là ai cũng thích. Do vậy, hiện dùng tạm chữ settlement do chưa nghĩ ra từ gì tốt hơn.
 

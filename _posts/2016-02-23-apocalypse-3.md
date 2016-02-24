@@ -24,7 +24,7 @@ Có hai vấn đề đối với sự mời gọi tưởng tượng và hiện t
 
 Thứ nhất, quá trình hiện thực hóa viễn tượng sẽ dần tạo một thế gian mới, sẽ bị tha hóa, sẽ bị gian hóa. Do đó chữ kenosis là hữu dụng, dùng để nhắc nhở cái viễn tượng mới phải đi kèm với một cách phân phối và sử dụng quyền lực khác với cách dùng quyền lực đã làm tha hóa và gian hóa thế gian cũ. Như vậy kenosis có ý tự kiểm, tránh đi vào vết xe đổ áp bức bóc lột, chứ không có ý bảo những người nghèo khó, người bị tước đoạt tài sản đất đai, người bị chèn ép... phải hy sinh hơn nữa.
 
-Thứ hai, khởi đầu mới nên được suy nghĩ trong hướng settlement, ‘an trú trong hiện tại.’ Người nghèo khó, người bị tước đoạt tài sản đất đai, người bị chèn ép... đều mong được settle down. Đó là lý do tại sao các khái niệm như promised land, hay the meek shall inherit the earth lại được hoan nghênh.
+Thứ hai, khởi đầu mới nên được suy nghĩ trong hướng settlement, ‘an trú trong hiện tại.’ Người nghèo khó, người bị tước đoạt tài sản đất đai, người bị chèn ép... đều mong được an cư, lạc nghiệp. Đó là lý do tại sao các khái niệm như vào đất hứa, hay người nhu mì thì được hưởng đất đai... lại được hoan nghênh.
 
 Chữ pilgrimage (Augustine), hay exile/pilgrimage (Yoder), mô tả đời sống Cơ Đốc là hành trình bỏ lại mọi thứ đời này đi về thiên quốc, là không sai, nhưng không phù hợp với người nghèo khó, người bị tước đoạt tài sản đất đai, người bị chèn ép...
 

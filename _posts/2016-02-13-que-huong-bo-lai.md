@@ -21,3 +21,5 @@ Mà hồn mình như ê chề 
 >   Kìa ruộng đồng lúa chín vàng   
 >   Giờ này đã xa rồi   
 >   Và ngàn đời nhớ Việt Nam.
+
+Ta nói, cứ markdown mà chiến.

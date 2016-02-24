@@ -23,5 +23,5 @@ Mà hồn mình như ê chề 
 >   Và ngàn đời nhớ Việt Nam.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Note: Ta nói, cứ markdown mà chiến.
+Note: Ta nói, cứ markdown mà chiến, chứ giờ này mấy giờ rồi mà còn lụi cụi bên wordpress.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

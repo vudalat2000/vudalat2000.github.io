@@ -2,6 +2,15 @@
 layout: default
 title: Categories
 ---
+{% for category in site.categories %}
+    {{ category | first }}
+{% endfor %}
+
+{% for category in site.categories %}
+    <a href="/{{ category | first | slugize }}/">
+        {{ category | first }}
+    </a>
+{% endfor %}
 
 
 <h1>Categories</h1>

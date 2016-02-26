@@ -1,6 +1,6 @@
 ---
 title: What is the theological question? 
-categories : thesis
+categories : study
 ---
 The theological question is also the political question. The theological deals with the act of meaning-making, while the political addresses the power structure(s) that gives the shape and the negotiation of such meanings.
 

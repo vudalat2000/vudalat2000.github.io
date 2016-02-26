@@ -1,5 +1,6 @@
 ---
 title: Apocalypse (viết lần 1)
+categories: study
 ---
 
 *Thế gian* là một thuật ngữ mơ hồ. Do đó, hễ dùng thì phải định nghĩa. *Thế gian* thường có ý nghĩa tiêu cực, là từ mô tả một xã hội nhiều sự vô đạo đức, vô tổ chức, thiếu tinh thần nhân bản, nhiều bất công, nhiều tham lam, theo kiểu ‘nóng ruột làm giàu, cắm đầu hưởng thụ.’ *Thế gian* rất thiếu thân thiện: người giàu ăn hiếp người nghèo, người đa số ăn hiếp người thiểu số, người có quyền ăn hiếp người cô thế, vân vân và vân vân. Đó là *thế gian*.

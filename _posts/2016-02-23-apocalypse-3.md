@@ -1,5 +1,7 @@
 ---
 title: Apocalypse (viết lần 3)
+categories: study
+
 ---
 
 Apocalypse

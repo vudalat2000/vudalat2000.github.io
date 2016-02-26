@@ -10,7 +10,5 @@ layout: default
   {{ content }}
 </div>
 
-{% unless page.categories == '' %}
-  Tagged with {{ page.categories }}
-{% endunless %}
+  {% if post.category %}<p>Category: {{ post.category }}</p>{% endif %}
 

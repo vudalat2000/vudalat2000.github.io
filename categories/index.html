@@ -40,7 +40,7 @@ title: Categories
 <h1>Categories</h1>
 
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <h3>{{ category | first }}"></h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}

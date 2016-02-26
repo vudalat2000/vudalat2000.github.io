@@ -10,8 +10,7 @@ layout: default
   {{ content }}
 </div>
 
-Tagged with {{ page.categories | join: ', ' }}
-{% for category in site.categories %}
+Tagged with {% for category in post.categories %}
     <a href="/{{ category | first | slugize }}/">
         {{ category | first }}
     </a>

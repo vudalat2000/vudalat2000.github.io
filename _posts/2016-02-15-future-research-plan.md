@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Research intention
-categories: vudalat2000, study
+categories: vudalat2000 study
 ---
 
 Có rất nhiều thứ, tốt nhất là giữ private. Các dự định nghiên cứu viết lách có

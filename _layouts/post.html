@@ -10,8 +10,4 @@ layout: default
   {{ content }}
 </div>
 
-Categories: {{ page.categories | join: ', ' }}
-
-{% for category in page.categories %}
-  {{ category | first | join: ', '  }}
-    {% endfor %}
+File under: {{ page.categories | join: ', ' }}

@@ -3,8 +3,24 @@ layout: default
 title: Categories
 ---
 
+
 <h1>Categories</h1>
 <ul>
+{% for category in site.categories %}
+    {% if category[0] == page.rcategory %}
+        {% for catposts in category %}
+            {% if forloop.first %}
+                {% continue %}
+            {% endif %}
+            {% for catpost in catposts %}
+
+                <p>{{ catpost.title }}</p>
+
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+<--
 {% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
@@ -16,4 +32,5 @@ title: Categories
     </ul>
   </li>
 {% endfor %}
+-->
 </ul>

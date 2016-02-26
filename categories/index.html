@@ -4,13 +4,3 @@ title: Categories
 ---
 
 <h1>Categories</h1>
-<ul>
-{% for category in site.categories %}
- <li>
-<a href="{{ post.url }}">
-<time>{{ post.date | date: "%-d %B %Y" }}</time>
-{{ post.title }}
-</a>
-</li>
-{% endfor %}
-</ul>

@@ -10,5 +10,6 @@ layout: default
   {{ content }}
 </div>
 
-  {% if page.categories %}<p>Category: {{ page.categories }}</p>{% endif %}
-
+{% if page.categories == '' %}
+  Category: {{ page.categories }}
+{% endif %}

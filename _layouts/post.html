@@ -10,8 +10,11 @@ layout: default
   {{ content }}
 </div>
 
-Tagged with {{ page.categories }}
+{% unless page.categories == '' %}
+  Tagged with {{ page.categories }}
+{% endunless %}
 
+<!-- 
 <div class="related">
   <h3>Related Posts</h3>
   <ul class="related-posts">
@@ -27,3 +30,4 @@ Tagged with {{ page.categories }}
     {% endfor %}
   </ul>
 </div>
+-->

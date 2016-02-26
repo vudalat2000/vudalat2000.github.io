@@ -10,10 +10,7 @@ layout: default
   {{ content }}
 </div>
 
-Tagged with {% for category in post.categories %}
-    <a href="/{{ category | first | slugize }}/">
-        {{ category | first }}
-    </a>
+Tagged with {{ page.categories }}
 
 <div class="related">
   <h3>Related Posts</h3>

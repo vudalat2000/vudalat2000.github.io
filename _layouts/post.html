@@ -7,7 +7,7 @@ layout: default
   
   {{ content }}  
 
-<span class="post-date">{{ page.date | date_to_string | join: '; ' }} File under: {{ page.categories | join: ', ' }}</span>
+<span class="post-date">{{ page.date | date_to_string }}; {{ page.categories | join: ', ' }}</span>
 
 <span class="post-date">File under: {{ page.categories | join: ', ' }}</span>
 
